@@ -6,8 +6,7 @@ author_profile: true
 ---
 ## Working Papers
 
-- **The Impact of Voluntary Conservation Programs on Nonpoint Source Pollution**  
-  *Ngoc Ha Do*  
+- **The Effects of the Conservation Reserve Enhancement Program on Water Quality: Evidence from Wisconsin**  
   <details>
    <summary><strong>Abstract</strong></summary>
    <small>
