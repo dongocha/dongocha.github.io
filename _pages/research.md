@@ -29,7 +29,8 @@ author_profile: true
   </details>
 
 - **Science and Subjectivity in Academic Research on the Environment** (draft coming soon)  
-  *with Dominic Parker*  
+  *with Dominic Parker*
+  <small>Media coverage: [PolicyEd](https://www.policyed.org/policy-stories/climate-anxiety-and-objectivity-crisis/video)</small>  
   <details>
     <summary><strong>Abstract</strong></summary>
     <small>
