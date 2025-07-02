@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Thanks for visiting. I am a (rising) sixth-year PhD student in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. I do research on the economics of the environment & natural resources, with particular emphasis on conservation and water. I expect to be on the 2025-2026 job market.
+I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin–Madison.
+
+I am an applied microeconomist with broad interests in environmental and natural resource economics. My current research examines the environmental and economic impacts of U.S. environmental policies and institutions. Specifically, I study how voluntary federal conservation programs affect nonpoint source pollution and how the adjudication of water rights influences agricultural land values in the western United States. 
+
+I will be on the 2025–2026 economics job market.
 
 Upcoming presentations:
 - AAEA Summer Meeting July 27 - 29 in Denver, CO.
-- Camp Resources XXXI August 3 - 5 in Asheville, NC
+- Camp Resources XXXI August 3 - 5 in Asheville, NC.
