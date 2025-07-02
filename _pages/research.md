@@ -20,7 +20,7 @@ author_profile: true
 ## Work In Progress
 
 - **The Economic Benefits of Water Rights Adjudication: Evidence from Agricultural Land Sales in Western States**  
-  <small>Presented at AERE Summer Meeting 2025, AAEA Summer Conference (upcoming - 2025)</small>  
+  <small>Presented at AERE Summer Meeting (2025), AAEA Summer Conference (upcoming - 2025)</small>  
   <details>
     <summary><strong>Abstract</strong></summary>
     <small>
@@ -36,3 +36,4 @@ author_profile: true
       Objective science uncovers truths about environmental conditions, including those related to emissions trends, biodiversity loss, and climate change. When and why do scientists use subjective language to describe these conditions with bias, emotion, or advocacy? To shed light, we study determinants and trends in subjective language use within journal articles published since 1990 in the science and social science fields. Using machine learning to label and score abstract wording by subjectivity, we find evidence that subjective language is more prevalent in articles focused on environmental topics. Among economic journals, subjective language is also increasing over time. After controlling for factors such as article age, author experience, number of authors, and journal quality, higher subjectivity scores associate positively with academic citations, particularly if the article is focused on an environmental topic. This finding suggests that subjective language may be rewarded in the academy.
     </small>
   </details>
+- **Land Fragmentation and Deepening Groundwater Crisis** *with [Dominic Parker](https://aae.wisc.edu/dparker/)*
