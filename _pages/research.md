@@ -37,3 +37,10 @@ author_profile: true
     </small>
   </details>
 - **Land Fragmentation and Deepening Groundwater Crisis** *with [Dominic Parker](https://aae.wisc.edu/dparker/)*
+
+---
+
+## Pre-doctoral Publications
+- Nguyen, H. T., Luu, H. N., and Do, N. H. (2021). [**The dynamic relationship between greenfield investments, cross-border M&As, domestic investment, and economic growth in Vietnam**](https://link.springer.com/article/10.1007/s10644-020-09292-7). *Economic Change and Restructuring*, 54(4), 1065–1089.
+
+- Do, N. H., and Le, A. L. (2020). [**Nonlinear Dynamics of Cournot Competition in Carbon Emission Trading Market**](https://www.researchgate.net/profile/Muhammad-Yousaf-49/publication/354144651_Improving_the_Quality_of_Health_Care_in_the_Czech_Republic/links/6127756638818c2eaf5f6e8b/Improving-the-Quality-of-Health-Care-in-the-Czech-Republic.pdf#page=512). *ICFE 2020*, p. 499.
