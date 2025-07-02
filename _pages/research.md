@@ -25,8 +25,8 @@ author_profile: true
 
  - **Science and Subjectivity in Academic Research on the Environment** (draft coming soon)
    *with Dominic Parker*
-  <details>
-   <summary><strong>Abstract</strong></summary>
-   <small>
+   <details>
+     <summary><strong>Abstract</strong></summary>
+     <small>
     Objective science uncovers truths about environmental conditions, including those related to emissions trends, biodiversity loss, and climate change. When and why do scientists use subjective language to describe these conditions with bias, emotion, or advocacy?  To shed light, we study determinants and trends in subjective language use within journal articles published since 1990 in the science and social science fields. Using machine learning to label and score abstract wording by subjectivity, we find evidence that subjective language is more prevalent in articles focused on environmental topics. Among economic journals, subjective language is also increasing over time. After controlling for factors such as article age, author experience, number of authors, and journal quality, higher subjectivity scores associate positively with academic citations, particularly if the article is focused on an environmental topic. This finding suggests that subjective language may be rewarded in the academy.
-   </details>
+    </details>
