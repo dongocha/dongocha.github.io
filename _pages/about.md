@@ -15,7 +15,7 @@ I will be on the 2025–2026 economics job market.
 
 For the most up-to-date version of my CV, please click here.
 
-Contact Info: ntdo2 at wisc dot com
+Contact Info: ntdo2 at wisc dot edu
 
 Upcoming presentations:
 - AAEA Summer Meeting July 27 - 29 in Denver, CO.
