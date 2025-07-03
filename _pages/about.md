@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="/images/ha_profile_pic.jpg" alt="Profile photo" style="width:150px; border-radius:50%;">
 
 I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin–Madison.
 
