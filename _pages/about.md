@@ -18,4 +18,4 @@ Feel free to reach out to me at [ntdo2@wisc.edu](mailto:ntdo2@wisc.edu).
 Upcoming presentations:
 - AAEA Summer Meeting: July 27 - 29 in Denver, CO.
 - Camp Resources XXXI: August 3 - 5 in Asheville, NC.
-- Social Cost of Water Pollution: September 25 -26 at Resources for the Future, Washington DC.
+- Social Cost of Water Pollution: September 25 -26 in Washington, DC.
