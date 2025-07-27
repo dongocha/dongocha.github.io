@@ -28,7 +28,7 @@ author_profile: true
 ## Work In Progress
 
 - **The Economic Benefits of Water Rights Adjudication: Evidence from Agricultural Land Sales in Western States**  
-  <small>Presented at AERE Summer Meeting (2025), AAEA Summer Conference (upcoming - 2025)</small>  
+  <small>Presented at AERE Summer Meeting (2025), AAEA Summer Conference (upcoming - 2025), Social Cost of Water Pollution Workshop (upcoming - 2025) </small>  
   <details>
     <summary><strong>Abstract</strong></summary>
     <small>
