@@ -7,7 +7,7 @@ author_profile: true
 ## Working Papers
 
 - **The Effects of the Conservation Reserve Enhancement Program on Water Quality: Evidence from Wisconsin**  
-  <small>Presented at Social Cost of Water Pollution Workshop (2024), APPAM (2024), AERE@SEA (2024), Big Sky Workshop (2025), Camp Resources XXXI (upcoming - 2025)</small>  
+  <small>Presented at Social Cost of Water Pollution Workshop (2024), APPAM (2024), AERE@SEA (2024), Big Sky Workshop (2025), Camp Resources XXXI (2025)</small>  
   <details>
     <summary><strong>Abstract</strong></summary>
     <small>
@@ -28,7 +28,7 @@ author_profile: true
 ## Work In Progress
 
 - **The Economic Benefits of Water Rights Adjudication: Evidence from Agricultural Land Sales in Western States**  
-  <small>Presented at AERE Summer Meeting (2025), AAEA Summer Conference (upcoming - 2025), Social Cost of Water Pollution Workshop (upcoming - 2025) </small>  
+  <small>Presented at AERE Summer Meeting (2025), AAEA Summer Conference (2025), Social Cost of Water Pollution Workshop (upcoming - 2025) </small>  
   <details>
     <summary><strong>Abstract</strong></summary>
     <small>
